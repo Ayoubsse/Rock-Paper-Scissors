@@ -4,7 +4,7 @@ This is a frontend project for "Its a Rock Paper Scissors simple website game wh
 
 You can **see the live website** here:  
 
-🌐 **Live Demo:** [https://Ayoubsse.github.io/Rock-Paper-Scissorss/](https://Ayoubsse.github.io/Rock-Paper-Scissors/)
+🌐 **Live Demo:** [https://Ayoubsse.github.io/Rock-Paper-Scissors/](https://Ayoubsse.github.io/Rock-Paper-Scissors/)
 
 ---
 
